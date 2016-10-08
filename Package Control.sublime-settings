@@ -1,0 +1,17 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"BetterFindBuffer",
+		"GitGutter",
+		"GitSavvy",
+		"Package Control",
+		"SublimeAStyleFormatter",
+		"Sync Settings",
+		"SyncedSideBar",
+		"Table Editor"
+	]
+}

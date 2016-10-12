@@ -1,25 +1,37 @@
 {
+	"added_words":
+	[
+		"const",
+		"namespace",
+		"bool",
+		"enum"
+	],
 	"always_show_minimap_viewport": true,
 	"bold_folder_labels": true,
+	"color_scheme": "Packages/Color Scheme - Default/Monokai.tmTheme",
 	"draw_minimap_border": true,
-	"font_face": "Consolas",
-	"font_size": 13,
+	"font_face": "Source Code Pro",
+	"font_size": 18,
 	"highlight_line": true,
 	"highlight_modified_tabs": true,
 	"ignored_packages":
 	[
+		"RestructuredText",
 		"Vintage"
 	],
 	"line_padding_bottom": 1,
 	"line_padding_top": 1,
 	"rulers":
 	[
+		80,
 		100,
 		120
 	],
 	"shift_tab_unindent": true,
 	"show_encoding": true,
 	"show_line_endings": true,
+	"skin": "User/Monokai",
 	"tab_size": 4,
-	"translate_tabs_to_spaces": true,
+	"theme": "Default.sublime-theme",
+	"translate_tabs_to_spaces": true
 }

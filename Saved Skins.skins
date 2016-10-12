@@ -1,0 +1,32 @@
+{
+	"Monokai":
+	{
+		"Preferences":
+		{
+			"color_scheme": "Packages/Color Scheme - Default/Monokai.tmTheme",
+			"font_face": "Source Code Pro",
+			"font_size": 15,
+			"theme": "Default.sublime-theme"
+		}
+	},
+	"Monokai Space":
+	{
+		"Preferences":
+		{
+			"color_scheme": "Packages/Monokai - Spacegray/Monokai - Spacegray.tmTheme",
+			"font_face": "Source Code Pro",
+			"font_size": 15,
+			"theme": "Spacegray.sublime-theme"
+		}
+	},
+	"Solarized Light":
+	{
+		"Preferences":
+		{
+			"color_scheme": "Packages/Color Scheme - Default/Solarized (Light).tmTheme",
+			"font_face": "Source Code Pro",
+			"font_size": 15,
+			"theme": "Default.sublime-theme"
+		}
+	}
+}

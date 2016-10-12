@@ -6,11 +6,17 @@
 	"installed_packages":
 	[
 		"BetterFindBuffer",
+		"BoundKeys",
+		"Fold Comments",
 		"GitGutter",
 		"GitSavvy",
+		"Monokai - Spacegray",
 		"Package Control",
+		"RestructuredText Improved",
+		"Skins",
 		"SublimeAStyleFormatter",
 		"SyncedSideBar",
-		"Table Editor"
+		"Table Editor",
+		"Theme - Spacegray"
 	]
 }

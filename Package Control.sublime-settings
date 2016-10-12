@@ -12,9 +12,13 @@
 		"GitSavvy",
 		"Monokai - Spacegray",
 		"Package Control",
+		"Python PEP8 Autoformat",
 		"RestructuredText Improved",
 		"Skins",
 		"SublimeAStyleFormatter",
+		"SublimeLinter",
+		"SublimeLinter-pep8",
+		"SublimeLinter-pyflakes",
 		"SyncedSideBar",
 		"Table Editor",
 		"Theme - Spacegray"

@@ -8,7 +8,9 @@ Can be used to sync settings between different machines.
 Usage
 -----
 
-Clone this repo inside the Sublime Text 3 Packages/User folder
+cd into `Sublime Text 3`user datat folder
+
+create a `Packages` folder if not exists
 
 cd into `Packages`folder
 

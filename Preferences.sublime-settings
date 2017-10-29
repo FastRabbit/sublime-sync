@@ -1,23 +1,19 @@
 {
-	"added_words":
-	[
-		"const",
-		"namespace",
-		"bool",
-		"enum"
-	],
 	"always_show_minimap_viewport": true,
 	"bold_folder_labels": true,
-	"color_scheme": "Packages/User/SublimeLinter/Monokai (SL).tmTheme",
+	"color_scheme": "Packages/Solarized Color Scheme/Solarized (light).tmTheme",
 	"draw_minimap_border": true,
 	"font_face": "Source Code Pro",
-	"font_size": 18,
+	"font_size": 16,
 	"highlight_line": true,
 	"highlight_modified_tabs": true,
 	"ignored_packages":
 	[
-		"RestructuredText",
 		"Vintage"
+	],
+	"index_exclude_patterns":
+	[
+		"*.log"
 	],
 	"line_padding_bottom": 1,
 	"line_padding_top": 1,
@@ -27,11 +23,10 @@
 		100,
 		120
 	],
+	"theme": "Adaptive.sublime-theme",
 	"shift_tab_unindent": true,
 	"show_encoding": true,
 	"show_line_endings": true,
-	"skin": "User/Monokai",
 	"tab_size": 4,
-	"theme": "Default.sublime-theme",
 	"translate_tabs_to_spaces": true
 }

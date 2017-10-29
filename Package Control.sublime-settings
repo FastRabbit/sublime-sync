@@ -5,24 +5,15 @@
 	],
 	"installed_packages":
 	[
+		"A File Icon",
+		"Alignment",
 		"BetterFindBuffer",
-		"BoundKeys",
-		"DocBlockr",
-		"DocBlockr_Python",
-		"Fold Comments",
+		"BracketHighlighter",
 		"GitGutter",
 		"GitSavvy",
-		"Monokai - Spacegray",
 		"Package Control",
-		"Python PEP8 Autoformat",
-		"RestructuredText Improved",
-		"Skins",
+		"Solarized Color Scheme",
 		"SublimeAStyleFormatter",
-		"SublimeLinter",
-		"SublimeLinter-pep8",
-		"SublimeLinter-pyflakes",
-		"SyncedSideBar",
-		"Table Editor",
-		"Theme - Spacegray"
+		"Table Editor"
 	]
 }

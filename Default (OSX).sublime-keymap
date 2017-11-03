@@ -1,0 +1,4 @@
+[
+    { "keys": ["super+7"], "command": "toggle_comment", "args": { "block": false } },
+    { "keys": ["super+alt+7"], "command": "toggle_comment", "args": { "block": true } },
+]

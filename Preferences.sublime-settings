@@ -1,7 +1,7 @@
 {
 	"always_show_minimap_viewport": true,
 	"bold_folder_labels": true,
-	"color_scheme": "Packages/Solarized Color Scheme/Solarized (light).tmTheme",
+	"color_scheme": "Nord.sublime-color-scheme",
 	"draw_minimap_border": true,
 	"font_face": "Source Code Pro",
 	"font_size": 16,
@@ -9,7 +9,7 @@
 	"highlight_modified_tabs": true,
 	"ignored_packages":
 	[
-		"Vintage"
+		"Vintage",
 	],
 	"index_exclude_patterns":
 	[
@@ -27,6 +27,7 @@
 	"show_encoding": true,
 	"show_line_endings": true,
 	"tab_size": 4,
+	/*"color_scheme": "Nord.sublime-color-scheme",*/
 	"theme": "Adaptive.sublime-theme",
-	"translate_tabs_to_spaces": true
+	"translate_tabs_to_spaces": true,
 }

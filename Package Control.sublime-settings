@@ -6,6 +6,11 @@
 	"installed_packages":
 	[
 		"A File Icon",
+		"LSP",
+		"LSP-json",
+		"LSP-pylsp",
+		"LSP-pyright",
+		"Nord",
 		"AlignTab",
 		"BetterFindBuffer",
 		"BracketHighlighter",
@@ -16,5 +21,5 @@
 		"Solarized Color Scheme",
 		"SublimeAStyleFormatter",
 		"Table Editor"
-	]
+	],
 }
